@@ -1,6 +1,6 @@
 ### Histogram Equalization for Image Contrast Enhancement
 
-<img src="Assignment 1/image.png" width="70%" height="70%">
+<img src="image.png" width="70%" height="70%">
 
 - **assignment_01.m**: main script
 - **my_histogram.m**: the function that generates a histogram of an image
