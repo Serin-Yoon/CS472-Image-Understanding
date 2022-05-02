@@ -2,7 +2,7 @@
 
 <img src="image.png" width="30%" height="30%">  
 
-1. `dataPreparation` : load masks & images, crop person image & no-person image
+1. `dataPreparation` : load masks & images, create person image & no-person image
 2. `classifierTraining` : load person & no-person images, extract HOG features, do 10 fold cross validation
 3. `classifierTesting`: load test image, test the classifier using sliding window
 
